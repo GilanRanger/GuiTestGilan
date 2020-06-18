@@ -1,0 +1,5 @@
+name: GuiTest
+version: 1.0-SNAPSHOT
+main: me.gilan.guitest.GuiTest
+authors: [Gilan]
+description: Testing Gui for servers.

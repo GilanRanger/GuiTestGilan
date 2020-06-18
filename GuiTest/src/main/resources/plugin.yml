@@ -1,0 +1,5 @@
+name: GuiTest
+version: ${project.version}
+main: me.gilan.guitest.GuiTest
+authors: [Gilan]
+description: Testing Gui for servers.
